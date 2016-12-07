@@ -1,0 +1,22 @@
+{
+  "name": "rctg-injector",
+  "description": "CSS generator and injector for ReactCSSTransitionGroup",
+  "version": "0.1.0",
+  "author": "Michael Hogg",
+  "license": "MIT",
+  "homepage": "https://github.com/michaelhogg/rctg-injector",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:michaelhogg/rctg-injector.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint index.js"
+  },
+  "dependencies": {
+    "style-inject": "^0.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.11.1"
+  }
+}
